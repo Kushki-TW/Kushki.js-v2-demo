@@ -11,8 +11,7 @@
   "tasks": {
     "bootstrap": {
       "name": "bootstrap",
-      "command": "yarn bootstrap",
-      "runAtStart": false
+      "command": "yarn bootstrap"
     },
     "dev": {
       "name": "dev",
@@ -21,93 +20,75 @@
     },
     "docs": {
       "name": "docs",
-      "command": "yarn docs",
-      "runAtStart": false
+      "command": "yarn docs"
     },
     "docs:dev": {
       "name": "docs:dev",
-      "command": "yarn docs:dev",
-      "runAtStart": false
+      "command": "yarn docs:dev"
     },
     "build:npm": {
       "name": "build:npm",
-      "command": "yarn build:npm",
-      "runAtStart": false
+      "command": "yarn build:npm"
     },
     "build:cdn": {
       "name": "build:cdn",
-      "command": "yarn build:cdn",
-      "runAtStart": false
+      "command": "yarn build:cdn"
     },
     "build": {
       "name": "build",
-      "command": "yarn build",
-      "runAtStart": false
+      "command": "yarn build"
     },
     "lint": {
       "name": "lint",
-      "command": "yarn lint",
-      "runAtStart": false
+      "command": "yarn lint"
     },
     "preview": {
       "name": "preview",
-      "command": "yarn preview",
-      "runAtStart": false
+      "command": "yarn preview"
     },
     "lint:fix": {
       "name": "lint:fix",
-      "command": "yarn lint:fix",
-      "runAtStart": false
+      "command": "yarn lint:fix"
     },
     "format": {
       "name": "format",
-      "command": "yarn format",
-      "runAtStart": false
+      "command": "yarn format"
     },
     "prepare": {
       "name": "prepare",
-      "command": "yarn prepare",
-      "runAtStart": false
+      "command": "yarn prepare"
     },
     "tsc:interface": {
       "name": "tsc:interface",
-      "command": "yarn tsc:interface",
-      "runAtStart": false
+      "command": "yarn tsc:interface"
     },
     "test:unit": {
       "name": "test:unit",
-      "command": "yarn test:unit",
-      "runAtStart": false
+      "command": "yarn test:unit"
     },
     "test:coverage": {
       "name": "test:coverage",
-      "command": "yarn test:coverage",
-      "runAtStart": false
+      "command": "yarn test:coverage"
     },
     "test": {
       "name": "test",
-      "command": "yarn test",
-      "runAtStart": false
+      "command": "yarn test"
     },
     "validate": {
       "name": "validate",
-      "command": "yarn validate",
-      "runAtStart": false
+      "command": "yarn validate"
     },
     "cp:package": {
       "name": "cp:package",
-      "command": "yarn cp:package",
-      "runAtStart": false
+      "command": "yarn cp:package"
     },
     "publish:alpha": {
       "name": "publish:alpha",
-      "command": "yarn publish:alpha",
-      "runAtStart": false
+      "command": "yarn publish:alpha"
     },
     "publish:latest": {
       "name": "publish:latest",
-      "command": "yarn publish:latest",
-      "runAtStart": false
+      "command": "yarn publish:latest"
     }
   }
 }
